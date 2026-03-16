@@ -22,16 +22,11 @@
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-(https://www.linkedin.com/in/sanjana-konar/)
+
 
 ```
 
 <br><br>     
-
-
-[![MasterHead](https://news.microsoft.com/wp-content/uploads/prod/sites/93/2017/02/Girls-in-Stem-gif-2.gif)](https://www.linkedin.com/in/sanjana-konar/)
-
-
 
 <h4 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h4>
  
