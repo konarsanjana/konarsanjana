@@ -1,6 +1,7 @@
 # Hola 👋
 ## 💫 About Me:
-## Hello 👋 I'm SANJANA <br><br>🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.
+## Hello 👋 I'm SANJANA <br><br>
+🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.
 
 
 ## 🌐 Socials:
