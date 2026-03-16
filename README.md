@@ -1,11 +1,9 @@
 [![MasterHead](<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8c229618-45f2-49c7-a8c0-383752825efd" />)
 
 <h1 align="center">Hola Folks 👋, I'm Sanjana Konar 💫</h1>
-<h2 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h2>
+<h3 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konarsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="konarsanjana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sanjanpra2k01" target="blank"><img src="https://img.shields.io/twitter/follow/sanjanpra2k01?logo=twitter&style=for-the-badge" alt="sanjanpra2k01" /></a> </p> 
 
 
 ## 🌐 Socials:
