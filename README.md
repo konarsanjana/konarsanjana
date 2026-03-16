@@ -1,7 +1,7 @@
-[![MasterHead](<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8c229618-45f2-49c7-a8c0-383752825efd" />)
+[![MasterHead](https://news.microsoft.com/wp-content/uploads/prod/sites/93/2017/02/Girls-in-Stem-gif-2.gif)](https://www.linkedin.com/in/sanjana-konar/)
 
 <h1 align="center">Hola Folks 👋, I'm Sanjana Konar 💫</h1>
-<h3 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h3>
+<h4 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konarsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="konarsanjana" /> </p>
 
