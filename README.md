@@ -33,7 +33,7 @@
 
 <br><br>     
 
-<h4 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.</h4>
+<h4 align="left">🎓 Master’s in Big Data Management & Analytics — Griffith College Dublin<br>📊 Data Analyst | Python • SQL • Excel • Power BI<br>🔍 Passionate about turning data into actionable insights.<br> I also use Figma for UI design and Procreate when I want to sketch ideas.</h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konarsanjana&label=Profile%20views&color=0e75b6&style=flat" alt="konarsanjana" /> </p>
 
